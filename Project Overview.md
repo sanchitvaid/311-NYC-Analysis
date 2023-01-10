@@ -1,12 +1,12 @@
-# 311-NYC-Analysis
+# 311 NYC Analysis
 
-# Overview
+## Overview
 Performed a service request data analysis of New York City 311 calls. NYC311 receives thousands of requests related to several hundred types of non-emergency services, 
 including noise complaints, plumbing issues, and illegally parked cars. Applied data wrangling techniques to understand the pattern in the data and also visualize the 
 major complaint types.
 
 
-# Dataset description
+## Dataset description
 1. Unique Key: The unique identification number
 2. Created Date: The date when the request was created
 3. Closed Date: The date when the request was closed
@@ -18,7 +18,7 @@ major complaint types.
 9. Incident Zip: The zip code of the location
 10. Incident Address: The location at which the incident
 
-# Conclusion 
+## Conclusion 
 Assessed the data and prepared a fresh dataset for training
 and prediction. Plotted different graphs such as Scatter plot, hexbin plot to identify the relationship between
 two variables. Visualized the major types of complaints in each city
